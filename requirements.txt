@@ -5,4 +5,8 @@ langchain-openai
 langchain-pinecone
 pypdf
 setuptools
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+langchain-classic
 -e .
